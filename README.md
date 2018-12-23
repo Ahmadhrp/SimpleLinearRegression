@@ -1,3 +1,3 @@
-# SimpleLinearRegression
+# Simple Linear Regression
 
-Testing correlation between brain weight and body weight of animal
+Linear regression example with one dependant feature
